@@ -1,10 +1,47 @@
-# Getting Started with Create React App
+# Project title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+tamars - store
 
-## Available Scripts
+## Description
+
+tamars-store is an online shopping application where users can explore a variety of products and
+add them to their cart.
+
+### Products
+
+women, men and kids clothes.
+
+### Shopping cart
+
+Easily added items yo your cart clicking on the desired products.
+The shopping cart dynamically updates, displaying the added items.
+
+### How to use
+
+Browse products, add to cart, view cart, proceed to checkout
+
+### Technologies used
+
+React
+Bootstrap
+Redux (for state management)
+Formik (for validation)
+
+### Project structure
+There are two directory in my structure,
+Public and  src directories.
+there are components, images and store folders in src directory.
+
+### Main files
+
+cartSlice.js and Cart.js are main files in this project. They are most interactive files in whole app.
+WomenProducts.js, menProducts.js and KidsProducts.js have exactly similar structures.
+
+### Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 

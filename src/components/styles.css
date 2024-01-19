@@ -1,0 +1,43 @@
+.header {
+  display: flex;
+  padding: 50px;
+}
+.header-item {
+  margin-left: 4%;
+  text-decoration: none;
+  font-size: medium;
+  color: rgb(101, 28, 28);
+  font-weight: bolder;
+  padding-top: 50px;
+}
+.signUpButton {
+  padding: 0;
+  margin: 0;
+}
+.loginButton {
+  margin-top: 45px;
+  color: darkgreen;
+
+  height: 40px;
+}
+.userNameGreeting {
+  color: red;
+  font-size: larger;
+  font-weight: bolder;
+  height: 40px;
+  margin-left: 10px;
+  margin-top: 45px;
+}
+.womenProductsImage {
+  max-width: 100%;
+  height: auto;
+  width: 300px;
+  height: auto;
+}
+
+.cart_container {
+  display: flex;
+}
+.cart_item {
+  width: 50%;
+}
